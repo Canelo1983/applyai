@@ -1,0 +1,3 @@
+import './globals.css';
+export const metadata={title:'ApplyAI — Find it. Qualify. Apply.',description:'AI-powered opportunity discovery, eligibility checking and application preparation.'};
+export default function RootLayout({children}){return <html lang="en"><body>{children}</body></html>}
